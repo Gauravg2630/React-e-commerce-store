@@ -45,7 +45,7 @@ src/
 
 | Product Grid | Product Details |
 |--------------|-----------------|
-| ![Product Grid](Screenshot%20(472)) | ![Product Details](Screenshot%20(477)) |
+| ![Product Grid](Screenshot%20(472).png) | ![Product Details](Screenshot%20(477).png) |
 
 ---
 
